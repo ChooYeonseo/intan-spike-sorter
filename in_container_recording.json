@@ -1,0 +1,37 @@
+{
+    "class": "spikeinterface.core.binaryfolder.BinaryFolderRecording",
+    "module": "spikeinterface",
+    "version": "0.101.2",
+    "kwargs": {
+        "folder_path": "/var/folders/g4/80l_4jg54rlcq9by8gjj21s40000gn/T/spikeinterface_cache/tmpfsuxugvz/OFKDYNO3"
+    },
+    "annotations": {
+        "name": null,
+        "is_filtered": true
+    },
+    "properties": {
+        "group": null,
+        "location": null,
+        "gain_to_uV": [
+            0.195,
+            0.195,
+            0.195,
+            0.195,
+            0.195,
+            0.195,
+            0.195,
+            0.195
+        ],
+        "offset_to_uV": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "relative_paths": false
+}
