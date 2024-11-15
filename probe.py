@@ -2,8 +2,8 @@
 # The Probe we use in link lab is as follows. It is an 8 channel probe.
 
 import numpy as np
-from GeoProbe import Probe
-from GeoProbe.plotting import plot_probe
+from probeinterface import Probe
+from probeinterface.plotting import plot_probe
 
 n = 8
 positions = np.zeros((n, 2))
